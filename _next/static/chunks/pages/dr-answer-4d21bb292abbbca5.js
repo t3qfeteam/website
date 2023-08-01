@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[713],{4997:function(n,u,_){"use strict";_.r(u);var r=_(8813);u.default=r.l_},2873:function(n,u,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/dr-answer",function(){return _(4997)}])}},function(n){n.O(0,[813,888,774,179],(function(){return u=2873,n(n.s=u);var u}));var u=n.O();_N_E=u}]);

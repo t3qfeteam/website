@@ -1,0 +1,53 @@
+{
+    "Intro":{
+        "title":"<strong>AI HUNMINJUNGEM</strong>\nSouth Korea, the world's best\n use of artificial intelligence",
+        "description":{
+            "m": "Just as King Sejong the Great created 28 letters for the people who could not express themselves properly due to lack of writing, this casebook combines 7 types of data handled by A.I. and 4 types of tasks performed by A.I. into an integrated platform.",
+            "d": "Just as King Sejong the Great created 28 letters for the people who could not express\n themselves properly due to lack of writing, this casebook combines 7 types of data\n handled by A.I. and 4 types of tasks performed by A.I. into an integrated platform."
+        }
+    },
+    "DataSeven":{
+        "title":"DATA",
+        "task":[ "TEXT","VOICE","IMAGE","VIDEO","SATELLITE","LOG/NUMERIC","BINARY" ],
+        "description":{
+            "m": "There are seven types of data that AI deals with:\n text, image, voice, video, satellite, log/numeric, and binary.",
+            "d": "There are seven types of data that AI deals with:\n text, image, voice, video, satellite, log/numeric, and binary."
+        }
+    },
+    "TaskFour":{
+        "title":"TASK",
+        "task":[ "Categorize","Regression","Clustering","Anomaly detection" ],
+        "description":{
+            "m": "There are four tasks that AI performs: classification, regression, clustering, and anomaly detection.",
+            "d": "There are four tasks that AI performs:\n classification, regression, clustering, and anomaly detection."
+        }
+    },
+    "case":{
+        "title":{
+            "d":"DATA 7", "t":"TASK 4", "c": "Best Practices 28"
+        },
+        "description":{
+            "m": "It is a framework mounted on the T3Q.ai platform with contents such as data, models, methods, guides, and practice videos for 28 cases that combine 7 types of data and 4 types of tasks covered by AI.",
+            "d": "It is a framework mounted on the T3Q.ai platform with contents such as data, models, methods, guides,\n and practice videos for 28 cases that combine 7 types of data and 4 types of tasks covered by AI."
+        }
+    },
+    "uses":{
+        "title":{
+            "e":"AI HUNMINJUNGEM", "n":" Is Applied to the"
+        },
+        "description":{
+            "m": "Applying AI HUNMINJUNGEM to services makes it easier to learn AI and discover services. It's also easy to develop services.",
+            "d": "Applying AI HUNMINJUNGEM to services makes it easier to learn AI\n and discover services. It's also easy to develop services."
+        },
+        "utitle":[ "Learn AI made easy", "AI service discovery made easy", "Developing AI services made easy" ]
+    },
+    "UsingPlan":{
+        "title":{
+            "e":"AI HUNMINJUNGEM", "n":"How to use it"
+        },
+        "description":{
+            "m": "The AI Hun Min Ching platform can be utilized for a variety of purposes including schools, military, government, enterprise, healthcare, and more.",
+            "d": "The AI Hun Min Ching platform can be utilized for a variety of purposes including schools,\n military, government, enterprise, healthcare, and more."
+        }
+    }
+}

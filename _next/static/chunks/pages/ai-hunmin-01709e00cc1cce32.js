@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[923],{2208:function(n,u,_){"use strict";_.r(u);var i=_(8813);u.default=i.l_},7245:function(n,u,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/ai-hunmin",function(){return _(2208)}])}},function(n){n.O(0,[813,888,774,179],(function(){return u=7245,n(n.s=u);var u}));var u=n.O();_N_E=u}]);
