@@ -1,9 +1,34 @@
 {
-  "t3q-ai": "T3Q.ai",
-  "t3q-search": "T3Q.search",
-  "ai-engine": "AI Engine",
-  "ai-hunmin": "AI HUNMINJUNGEM",
-  "dr-answer": "Dr. Answer",
+  "navigation": [
+    { "id": "t3q-ai", "text": "T3Q.ai", "link": "/t3q-ai" },
+    {
+      "id": "t3q-search",
+      "text": "T3Q.search",
+      "link": "/t3q-search"
+    },
+    {
+      "id": "ai-engine",
+      "text": "AI Engine",
+      "link": "/ai-engine"
+    },
+    {
+      "id": "ai-hunmin",
+      "text": "AI HUNMINJEONGEUM",
+      "link": "/ai-hunmin"
+    },
+    {
+      "id": "dr-answer",
+      "text": "DR Answer",
+      "link": "/dr-answer"
+    },
+    { "id": "about", "text": "About", "link": "/about" }
+  ],
+
+  "t3qAi": "T3Q.ai",
+  "t3qSearch": "T3Q.search",
+  "aiEngine": "AI Engine",
+  "aiHunmin": "AI HUNMINJEONGEUM",
+  "drAnswer": "Dr. Answer",
   "about": "About",
 
   "address": {

@@ -2,8 +2,8 @@
   "intro": {
     "title": "<strong>T3Q's Dream Playverse!</strong>\nAnyone, Anywhere, Anything\nis Possible",
     "description": {
-      "m": "T3Q. is pursuing 'easy AI' and 'convenient AI' to make it easy to implement various AI services as long as you have data, based on the 'AI-Big Data Integration Platform' for processing large amounts of data and applying real-time intelligent analysis technology.\n Along with this, 'Dr.Answer 2.0,' a precision medical service for the public, and 'AI HUNMINJUNGEM,' which will become a textbook for AI, are converging with T3Q.search and marketplaces to create an AI ecosystem that creates value while enjoying and learning.",
-      "d": "T3Q. is pursuing 'easy AI' and 'convenient AI' to make it easy to implement various AI services as long as you have data, based on the 'AI-Big Data Integration Platform'\n for processing large amounts of data and applying real-time intelligent analysis technology.\n Along with 'Dr.Answer 2.0,' a precision medical service for the public,\n and 'AI HUNMINJUNGEM,' which will become a textbook for AI, T3Q.search, marketplace, etc. are converging to create an AI ecosystem where you can enjoy, learn, and create value for yourself."
+      "m": "T3Q. is pursuing 'easy AI' and 'convenient AI' to make it easy to implement various AI services as long as you have data, based on the 'AI-Big Data Integration Platform' for processing large amounts of data and applying real-time intelligent analysis technology.\n Along with this, 'Dr.Answer 2.0,' a precision medical service for the public, and 'AI HUNMINJEONGEUM,' which will become a textbook for AI, are converging with T3Q.search and marketplaces to create an AI ecosystem that creates value while enjoying and learning.",
+      "d": "T3Q. is pursuing 'easy AI' and 'convenient AI' to make it easy to implement various AI services as long as you have data, based on the 'AI-Big Data Integration Platform'\n for processing large amounts of data and applying real-time intelligent analysis technology.\n Along with 'Dr.Answer 2.0,' a precision medical service for the public,\n and 'AI HUNMINJEONGEUM,' which will become a textbook for AI, T3Q.search, marketplace, etc. are converging to create an AI ecosystem where you can enjoy, learn, and create value for yourself."
     }
   },
 
@@ -40,8 +40,8 @@
       {
         "id": "ai-hunmin",
         "bg": "#BE9325",
-        "title": "AI HUNMINJUNGEM",
-        "enTitle": "AI HUNMINJUNGEM",
+        "title": "AI HUNMINJEONGEUM",
+        "enTitle": "AI HUNMINJEONGEUM",
         "description": "We've built 28 best practices into the T3Q.ai platform to make it easy to learn AI, easy to discover AI services, and easy to develop AI.",
         "bgImage": "/static/home/service/ai-hunmin.png",
         "link": "ai-hunmin"
@@ -92,16 +92,13 @@
       "a": "T3Q",
       "b": "CLIENT"
     },
-    "client": {
-      "id": "client-${index + 1}",
-      "alt": "`client-${index + 1} 이미지`",
-      "src": "`/static/home/clients/logo_${index + 1 < 10 ? `0${index + 1}'` : index + 1}.png`"
-    }
+    "alt": "image"
   },
   "t3qPartners": {
     "title": {
       "a": "T3Q",
       "b": "PARTNERS"
-    }
+    },
+    "alt": "image"
   }
 }

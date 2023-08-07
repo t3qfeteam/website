@@ -19,7 +19,8 @@
           "이미지 내 상황이나 내용을 인식하여 서술",
           "영상, 이미지 내의 이상감지 기능"
         ],
-        "src": "t3q.eye-diagram.png"
+        "src": "/static/ko/aiEngine/diagram/t3q.eye-diagram.png",
+        "alt": "T3Q.eye 다이어그램 이미지"
       },
       {
         "id": "T3Q.nlp",
@@ -32,7 +33,8 @@
           "문장의 의미와 의도 분석에 따른 질의응답 기능 구현",
           "특정 업무, 도메인에 특화된 언어사전 통합 관리"
         ],
-        "src": "t3q.nlp-diagram.png"
+        "src": "/static/ko/aiEngine/diagram/t3q.nlp-diagram.png",
+        "alt": "T3Q.nlp 다이어그램 이미지"
       },
       {
         "id": "T3Q.lens",
@@ -45,7 +47,8 @@
           "PDF 문서의 이미지 변환 및 문자 인식",
           "비정형 문서 내의 표, 그림 추출 및 저장"
         ],
-        "src": "t3q.nlp-diagram.png"
+        "src": "/static/ko/aiEngine/diagram/t3q.nlp-diagram.png",
+        "alt": "T3Q.lens 다이어그램 이미지"
       },
       {
         "id": "T3Q.stt",
@@ -58,7 +61,8 @@
           "인명, 지명 등의 인식률 향상을 위한 인식 강화 기능",
           "신조어 언어모델의 사용자 학습 기능으로 인식률 개선"
         ],
-        "src": "t3q.stt-diagram.png"
+        "src": "/static/ko/aiEngine/diagram/t3q.stt-diagram.png",
+        "alt": "T3Q.stt 다이어그램 이미지"
       }
     ]
   }

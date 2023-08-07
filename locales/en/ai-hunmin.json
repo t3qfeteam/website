@@ -1,6 +1,6 @@
 {
   "intro": {
-    "title": "<strong>AI HUNMINJUNGEM</strong>\nSouth Korea, the world's best\n use of artificial intelligence",
+    "title": "<strong>AI HUNMINJEONGEUM</strong>\nSouth Korea, the world's best\n use of artificial intelligence",
     "description": {
       "m": "Just as King Sejong the Great created 28 letters for the people who could not express themselves properly due to lack of writing, this casebook combines 7 types of data handled by A.I. and 4 types of tasks performed by A.I. into an integrated platform.",
       "d": "Just as King Sejong the Great created 28 letters for the people who could not express\n themselves properly due to lack of writing, this casebook combines 7 types of data\n handled by A.I. and 4 types of tasks performed by A.I. into an integrated platform."
@@ -48,7 +48,8 @@
         "name": "BINARY",
         "src": "/static/aiHunmin/dataTask/hunmin-binary-icon.svg"
       }
-    ]
+    ],
+    "imgAlt": "Image"
   },
   "taskFour": {
     "title": "TASK",
@@ -88,16 +89,21 @@
     "description": {
       "m": "It is a framework mounted on the T3Q.ai platform with contents such as data, models, methods, guides, and practice videos for 28 cases that combine 7 types of data and 4 types of tasks covered by AI.",
       "d": "It is a framework mounted on the T3Q.ai platform with contents such as data, models, methods, guides,\n and practice videos for 28 cases that combine 7 types of data and 4 types of tasks covered by AI."
+    },
+    "image": {
+      "m": "/static/en/aiHunmin/case/hunmin-28-case-m.png",
+      "d": "/static/en/aiHunmin/case/hunmin-28-case.png",
+      "alt": "Image of the table of 28 best practices for HUNMINJEONGEUM"
     }
   },
   "uses": {
     "title": {
-      "e": "AI HUNMINJUNGEM",
+      "e": "AI HUNMINJEONGEUM",
       "n": " Is Applied to the"
     },
     "description": {
-      "m": "Applying AI HUNMINJUNGEM to services makes it easier to learn AI and discover services. It's also easy to develop services.",
-      "d": "Applying AI HUNMINJUNGEM to services makes it easier to learn AI\n and discover services. It's also easy to develop services."
+      "m": "Applying AI HUNMINJEONGEUM to services makes it easier to learn AI and discover services. It's also easy to develop services.",
+      "d": "Applying AI HUNMINJEONGEUM to services makes it easier to learn AI\n and discover services. It's also easy to develop services."
     },
     "usesItem": [
       {
@@ -116,7 +122,7 @@
   },
   "usingPlan": {
     "title": {
-      "e": "AI HUNMINJUNGEM",
+      "e": "AI HUNMINJEONGEUM",
       "n": "How to use it"
     },
     "description": {
@@ -125,28 +131,31 @@
     },
     "uses": [
       {
-        "title": "全국민 AI",
-        "description": "누구나 자기 아이디어를 쉽게 배워\n인공지능으로 구현하자!",
-        "src": "hunmin-using-plan-content-1.png",
+        "title": "Nationals AI",
+        "description": "Let's make it easy for anyone to learn and implement their ideas with AI!",
+        "src": "/static/en/aiHunmin/uses/hunmin-using-plan-content-1.png",
         "bgImage": "/static/aiHunmin/uses/hunmin-using-plan-1.png",
         "bgColor": "#1F3AD3",
-        "pointColor": "#152DB5"
+        "pointColor": "#152DB5",
+        "alt": "using-plan-Nationals-AI-Image"
       },
       {
-        "title": "全장병 AI",
-        "description": "군에 간 내 자식,\n인공지능은 확실히 익혀서 전역하자!",
-        "src": "hunmin-using-plan-content-2.png",
+        "title": "Former Soldiers AI",
+        "description": "My child who went to the army,\nLet's master the artificial intelligence and retire!",
+        "src": "/static/en/aiHunmin/uses/hunmin-using-plan-content-2.png",
         "bgImage": "/static/aiHunmin/uses/hunmin-using-plan-2.png",
         "bgColor": "#38774D",
-        "pointColor": "#3BA459"
+        "pointColor": "#3BA459",
+        "alt": "using-plan-Former-Soldiers-AI-Image"
       },
       {
-        "title": "全산업 AI",
-        "description": "全산업 영역에 인공지능을\n가장 빠르고 효율적으로 적용하자!",
-        "src": "hunmin-using-plan-content-3.png",
+        "title": "All Industries AI",
+        "description": "Let's apply AI to all industries in the fastest and most efficient way!",
+        "src": "/static/en/aiHunmin/uses/hunmin-using-plan-content-3.png",
         "bgImage": "/static/aiHunmin/uses/hunmin-using-plan-3.png",
         "bgColor": "#2F989E",
-        "pointColor": "#00C9B1"
+        "pointColor": "#00C9B1",
+        "alt": "using-plan-All-Industries-AI-Image"
       }
     ]
   }
