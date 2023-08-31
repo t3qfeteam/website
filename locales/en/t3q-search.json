@@ -10,6 +10,12 @@
       "d": "It builds an integrated big data DB through automatic conversion, metadata extraction, and storage of various structured and unstructured data such as large documents, document files, videos, voices, and images using the T3Q AI engine.Using the artificial intelligence-based search engine, you can search not only text but also images, voices, and images through meaning-based search, keyword-based search, and sentence-based instant search."
     }
   },
+  "searchDiagram": {
+    "image": {
+      "src": "/static/en/t3qSearch/searchDiagram/search-diagram.png",
+      "alt": "T3Q.search Diagram Image"
+    }
+  },
   "feature": {
     "title": "Features",
     "description": [
@@ -17,7 +23,12 @@
       "Perform semantic search on raw data with sentence-based semantic search",
       "Search unstructured data such as videos and images with meta information and text content search",
       "Enable additional content-based search by targeting not only the file name but also the text"
-    ]
+    ],
+    "image": {
+      "m": "/static/en/t3qSearch/feature/feature-diagram-m.png",
+      "d": "/static/en/t3qSearch/feature/feature-diagram.png",
+      "alt": "T3Q.search Feature Diagram"
+    }
   },
   "mainFeature": {
     "title": "Main features",

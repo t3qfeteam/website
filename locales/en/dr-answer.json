@@ -13,8 +13,8 @@
       "d": "In Dr.Answer 2.0, 30 medical institutions, 18 ICT companies, and 280 healthcare IT professionals are working together to develop 24 AI medical SWs for 12 key diseases applicable to primary, secondary, and tertiary medical institutions, and T3Q will join them in building AI medical services for the entire treatment cycle, including prediction, analysis, diagnosis, treatment, and prognosis."
     },
     "src": {
-      "m": "platform-2.0-m.png",
-      "d": "platform-2.0.png"
+      "m": "/static/en/dranswer/platform/platform-2.0-m.png",
+      "d": "/static/en/dranswer/platform/platform-2.0.png"
     }
   },
   "diseaseList": {
@@ -146,7 +146,9 @@
     "description": {
       "m": "Based on the T3Q.ai platform, Dr.Anser 2.0 is flexibly used by various companies and organizations and provides the best environment for ICT medical technology development and operation.",
       "d": "Based on the T3Q.ai platform, Dr.Anser 2.0 is flexibly used by various companies and organizations and\n provides the best environment for ICT medical technology development and operation."
-    }
+    },
+    "src": "/static/en/dranswer/platform/platform-diagram.png",
+    "alt": "Dr.Answer AI Platform Diagram"
   },
   "toGlobalLevel": {
     "title": {
@@ -156,9 +158,10 @@
     "description": {
       "m": "After being applied to large medical institutions and proven and recognized for its stability through the spread of primary and secondary medical institutions, it will expand to Southeast Asia and the Middle East, and then to Europe and the Americas.",
       "d": "After being applied to large medical institutions and proven and recognized for its stability through the spread of primary and secondary\n medical institutions, it will expand to Southeast Asia and the Middle East, and then to Europe and the Americas."
-    }
+    },
+    "imageSrc": "/static/en/dranswer/platform/to-global-level.png"
   },
-  "p-His": {
+  "pHis": {
     "title": {
       "e": "Precision Healthcare Hospital Information System (P-HIS)",
       "n": "to develop a linked API"
@@ -166,6 +169,11 @@
     "description": {
       "m": "It is possible to expand API development between the T3Q platform and the precision medical hospital information system (P-HIS) equipped with AI SW developed through Dr.Answer 2.0.",
       "d": "It is possible to expand API development between the T3Q platform and the precision medical hospital \ninformation system (P-HIS) equipped with AI SW developed through Dr.Answer 2.0."
+    },
+    "image": {
+      "m": "/static/en/dranswer/platform/p-his-diagram-m.png",
+      "d": "/static/en/dranswer/platform/p-his-diagram.png",
+      "alt": "Precision Healthcare Provider Information System Diagram"
     }
   },
   "network": {
@@ -176,6 +184,11 @@
     "description": {
       "m": "As an AI-based healthcare platform company, we are expanding our network to bring more AI SW to the medical field.",
       "d": "As an AI-based healthcare platform company, we are expanding\n our network to bring more AI SW to the medical field."
+    },
+    "image": {
+      "m": "/static/en/dranswer/platform/network-diagram-m.png",
+      "d": "/static/en/dranswer/platform/network-diagram.png",
+      "alt": "Network scaling diagram based on Dr.Answer AI"
     }
   }
 }

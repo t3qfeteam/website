@@ -13,8 +13,8 @@
       "d": "닥터앤서 2.0에서는 30개 의료기관과 18개 ICT 기업, 280명의 의료 IT전문가들이 함께 협력하여\n1차, 2차, 3차 의료기관 각각에 적용 가능한 12개 중점질환에 24개 AI 의료 SW를 개발하고 있으며\n예측, 분석, 진단, 치료, 예후관리 등 진료 전주기 AI의료서비스 구축에 티쓰리큐가 함께합니다."
     },
     "src": {
-      "m": "platform-2.0-m.png",
-      "d": "platform-2.0.png"
+      "m": "/static/ko/dranswer/platform/platform-2.0-m.png",
+      "d": "/static/ko/dranswer/platform/platform-2.0.png"
     }
   },
   "diseaseList": {
@@ -146,7 +146,9 @@
     "description": {
       "m": "T3Q.ai 플랫폼 기반의 닥터앤서 2.0은 다양한 기업과 기관에서 유연하게 사용되며 ICT 의료 기술 개발 및 운용을 위한 최고의 환경을 제공합니다.",
       "d": "T3Q.ai 플랫폼 기반의 닥터앤서 2.0은 다양한 기업과 기관에서 유연하게 사용되며\nICT 의료 기술 개발 및 운용을 위한 최고의 환경을 제공합니다."
-    }
+    },
+    "src": "/static/ko/dranswer/platform/platform-diagram.png",
+    "alt": "닥터앤서 AI 플랫폼 다이어그램"
   },
   "toGlobalLevel": {
     "title": {
@@ -156,12 +158,18 @@
     "description": {
       "m": "대형 의료기관에 적용하고 1, 2차 의료기관의 확산을 통해서 실증과 안정성을 인정 받은 후에 동남아, 중동 진출을 시작으로 유럽, 미주로 확산합니다.",
       "d": "대형 의료기관에 적용하고 1, 2차 의료기관의 확산을 통해서 실증과 안정성을 인정 받은 후에\n동남아, 중동 진출을 시작으로 유럽, 미주로 확산합니다."
-    }
+    },
+    "imageSrc": "/static/ko/dranswer/platform/to-global-level.png"
   },
-  "p-His": {
+  "pHis": {
     "title": {
       "e": "정밀의료병원정보시스템(P-HIS)",
       "n": "간의\n연계 API 개발추진"
+    },
+    "image": {
+      "m": "/static/ko/dranswer/platform/p-his-diagram-m.png",
+      "d": "/static/ko/dranswer/platform/p-his-diagram.png",
+      "alt": "정밀의료벙원정보시스템 다이어그램"
     },
     "description": {
       "m": "닥터앤서 2.0을 통해 개발된 AI SW를 탑재한 T3Q 플랫폼과 정밀의료병원정보시스템(P-HIS)간의 연계 API 개발 확장이 가능합니다.",
@@ -176,6 +184,11 @@
     "description": {
       "m": "AI 기반 의료 플랫폼 기업으로서, 더 많은 AI SW를 의료현장에 도입할 수 있도록 네트워크를 확대해 가고 있습니다.",
       "d": "AI 기반 의료 플랫폼 기업으로서,\n더 많은 AI SW를 의료현장에 도입할 수 있도록 네트워크를 확대해 가고 있습니다."
+    },
+    "image": {
+      "m": "/static/ko/dranswer/platform/network-diagram-m.png",
+      "d": "/static/ko/dranswer/platform/network-diagram.png",
+      "alt": "닥터앤서 AI 기반의 네트워크 확장 다이어그램"
     }
   }
 }

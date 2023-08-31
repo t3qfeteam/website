@@ -39,9 +39,9 @@
         "이를 통해 ’세상에서 인공지능을 가장 잘 활용하는 대한민국’을 만드는데 선도적 역할하고 있습니다."
       ],
       "aiImg": [
-        "hunmin-using-plan-content-1.png",
-        "hunmin-using-plan-content-2.png",
-        "hunmin-using-plan-content-3.png"
+        "/static/ko/aiHunmin/uses/hunmin-using-plan-content-1.png",
+        "/static/ko/aiHunmin/uses/hunmin-using-plan-content-2.png",
+        "/static/ko/aiHunmin/uses/hunmin-using-plan-content-3.png"
       ]
     }
   },
@@ -53,6 +53,10 @@
     "description": {
       "m": "티쓰리큐㈜의 과거와 미래의 성장 로드맵입니다. 우리 티쓰리큐㈜의 미래를 지켜보십시오. 관심과 성원에 보답하겠습니다.",
       "d": "티쓰리큐㈜의 과거와 미래의 성장 로드맵입니다.\n우리 티쓰리큐㈜의 미래를 지켜보십시오. 관심과 성원에 보답하겠습니다."
+    },
+    "image": {
+      "src": "/static/ko/about/roadmap/roadmap.svg",
+      "alt": "t3q 로드맵"
     }
   },
   "future": {
@@ -63,6 +67,10 @@
     "description": {
       "m": "티쓰리큐(주)의 ‘인공지능 플랫폼(T3Q.dl)’, ‘빅데이터 플랫폼(T3Q.cep)’, ‘지능형 검색 엔진(T3Q.search)’을 활용한 ‘AI훈민정음’, 더 나가 ‘AI훈민정음 포탈’로 성원에 보답하겠습니다.",
       "d": "티쓰리큐(주)의 ‘인공지능 플랫폼(T3Q.dl)’, ‘빅데이터 플랫폼(T3Q.cep)’, ‘지능형 검색 엔진(T3Q.search)’을 활용한 ‘AI훈민정음’,\n더 나가 ‘AI훈민정음 포탈’로 성원에 보답하겠습니다."
+    },
+    "image": {
+      "src": "/static/ko/about/future/t3q-future.svg",
+      "alt": "t3q-future-로드맵이미지"
     }
   },
   "greetings": {
@@ -115,31 +123,31 @@
         "id": "speedQuality",
         "title": "Speed & Quality",
         "description": "최적의 서비스를\n적시에 제공",
-        "src": "philosophy-1-1.png"
+        "src": "/static/ko/about/philosophy/philosophy-1-1.png"
       },
       {
         "id": "unlimitedValue",
         "title": "Unlimited Value",
         "description": "사원들에 대한\n무한가치 추구",
-        "src": "philosophy-2-1.png"
+        "src": "/static/ko/about/philosophy/philosophy-2-1.png"
       },
       {
         "id": "flexibleOrganization",
         "title": "Flexible Organization",
         "description": "시대의 변화를 포용하는\n유연한 조직문화",
-        "src": "philosophy-3-1.png"
+        "src": "/static/ko/about/philosophy/philosophy-3-1.png"
       },
       {
         "id": "activeResponsibility",
         "title": "Active Responsibility",
         "description": "사회에 대한\n적극적인 책임의식",
-        "src": "philosophy-4-1.png"
+        "src": "/static/ko/about/philosophy/philosophy-4-1.png"
       },
       {
         "id": "bestAiPlatform",
         "title": "Best AI Platform",
         "description": "글로벌 최고의\nAI 플랫폼 지향",
-        "src": "philosophy-5-1.png"
+        "src": "/static/ko/about/philosophy/philosophy-5-1.png"
       }
     ]
   },
@@ -161,32 +169,32 @@
       {
         "id": "",
         "title": "인터페이스를 이용한\n요구사항 추적/관리 시스템",
-        "src": "patent-1.png"
+        "src": "/static/ko/about/patent/patent-1.png"
       },
       {
         "id": "",
         "title": "어플리케이션 소스\n자산 분석 및 관리 방법",
-        "src": "patent-2.png"
+        "src": "/static/ko/about/patent/patent-2.png"
       },
       {
         "id": "",
         "title": "분산시스템에서 어플리케이션 호출\n로그를 이용한 비지니스 트랜젝션의\n실시간 추척 및 분석 방법 시스템",
-        "src": "patent-3.png"
+        "src": "/static/ko/about/patent/patent-3.png"
       },
       {
         "id": "",
         "title": "빅데이터 기반의\n인공지능 통합 플랫폼 시스템",
-        "src": "patent-4.png"
+        "src": "/static/ko/about/patent/patent-4.png"
       },
       {
         "id": "",
         "title": "빅데이터 기반의\n인공지능 통합 플랫폼 서비스 방법",
-        "src": "patent-5.png"
+        "src": "/static/ko/about/patent/patent-5.png"
       },
       {
         "id": "",
         "title": "인공지능 서비스를\n제공하기 위한 방법",
-        "src": "patent-6.png"
+        "src": "/static/ko/about/patent/patent-6.png"
       }
     ]
   },
@@ -210,7 +218,8 @@
           "fax": "02-6344-7661"
         },
         "link": "https://map.naver.com/v5/search/%ED%8B%B0%EC%93%B0%EB%A6%AC%ED%81%90/place/12869465?c=14125455.8836574,4506523.9386608,15,0,0,0,dh&isCorrectAnswer=true",
-        "src": "seoul-map.png"
+        "src": "/static/ko/about/map/seoul-map.png",
+        "alt": "서울 본사 지도 이미지"
       },
       {
         "id": "gwangju",
@@ -219,8 +228,9 @@
           "add": "광주광역시 서구 경열로17번길 12, 광주AI스타트업캠프 3층 301호(농성동)",
           "tel": "062-366-7660"
         },
-        "src": "gwangju-map.png",
-        "link": "https://map.naver.com/v5/entry/place/1464331538?c=14125335.2450619,4184665.0132251,19,0,0,0,dh&isCorrectAnswer=true"
+        "link": "https://map.naver.com/v5/entry/place/1464331538?c=14125335.2450619,4184665.0132251,19,0,0,0,dh&isCorrectAnswer=true",
+        "src": "/static/ko/about/map/gwangju-map.png",
+        "alt": "광주 지사 지도 이미지"
       }
     ]
   },

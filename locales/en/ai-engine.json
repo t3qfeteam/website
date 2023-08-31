@@ -19,7 +19,8 @@
           "Recognize and describe situations or content in images",
           "Video, anomaly detection in images"
         ],
-        "src": "t3q.eye-diagram.png"
+        "src": "/static/en/aiEngine/diagram/t3q.eye-diagram.png",
+        "alt": "T3Q.eye Diagram Image"
       },
       {
         "id": "T3Q.nlp",
@@ -32,7 +33,8 @@
           "Implementing Q&A features based on sentence meaning and intent analysis",
           "Manage task- and domain-specific language dictionary integrations"
         ],
-        "src": "t3q.nlp-diagram.png"
+        "src": "/static/en/aiEngine/diagram/t3q.nlp-diagram.png",
+        "alt": "T3Q.nlp Diagram Image"
       },
       {
         "id": "T3Q.lens",
@@ -45,7 +47,8 @@
           "Image conversion and character recognition in PDF documents",
           "Extract and save tables and figures in unstructured documents"
         ],
-        "src": "t3q.nlp-diagram.png"
+        "src": "/static/en/aiEngine/diagram/t3q.nlp-diagram.png",
+        "alt": "T3Q.lens Diagram Image"
       },
       {
         "id": "T3Q.stt",
@@ -58,7 +61,8 @@
           "Recognition enhancement features to improve recognition rates for personal names, place names, etc.",
           "Improved recognition rate with user learning function of neologism language model"
         ],
-        "src": "t3q.stt-diagram.png"
+        "src": "/static/en/aiEngine/diagram/t3q.stt-diagram.png",
+        "alt": "T3Q.stt Diagram Image"
       }
     ]
   }

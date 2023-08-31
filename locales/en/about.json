@@ -1,8 +1,8 @@
 {
   "intro": {
     "title": {
-      "m": "Through <strong>AI HUNMINJUNGEM</strong>\n we will create a Republic of Korea that best utilizes\n artificial intelligence in the world.",
-      "d": "Through <strong>AI HUNMINJUNGEM</strong>\n we will create a Republic of Korea that best utilizes\n artificial intelligence in the world."
+      "m": "Through <strong>AI HUNMINJEONGEUM</strong>\n we will create a Republic of Korea that best utilizes\n artificial intelligence in the world.",
+      "d": "Through <strong>AI HUNMINJEONGEUM</strong>\n we will create a Republic of Korea that best utilizes\n artificial intelligence in the world."
     },
     "description": {
       "m": [
@@ -16,10 +16,10 @@
         "\n",
         "(As of GS certification 2019.05, 1 year and 3 months faster than S company and 2 years and 4 months faster than L company)",
         "\n",
-        "In January 2022, at CES 2022, we announced 'AI HUNMINJUNGEM' to make AI easy to use for everyone.",
+        "In January 2022, at CES 2022, we announced 'AI HUNMINJEONGEUM' to make AI easy to use for everyone.",
         "In doing so, we are playing a leading role in creating 'Korea, the country that best utilizes artificial intelligence in the world.",
         "\n",
-        "‘For the success of 'Digital Platform Government' utilizing 'AI HUNMINJUNGEM",
+        "‘For the success of 'Digital Platform Government' utilizing 'AI HUNMINJEONGEUM",
         "\n",
         "We are proposing practices and policy proposals for 'All Citizen AI', 'All Soldier AI', and 'All Industry AI'."
       ],
@@ -34,14 +34,14 @@
         "\n",
         "(As of GS certification 2019.05, 1 year and 3 months faster than S company and 2 years and 4 months faster than L company)",
         "\n",
-        "In January 2022, at CES 2022, we announced 'AI HUNMINJUNGEM' to make AI easy to use for everyone.",
+        "In January 2022, at CES 2022, we announced 'AI HUNMINJEONGEUM' to make AI easy to use for everyone.",
         "\n",
         "In doing so, we are playing a leading role in creating 'Korea, the country that best utilizes artificial intelligence in the world'."
       ],
       "aiImg": [
-        "hunmin-using-plan-content-1.png",
-        "hunmin-using-plan-content-2.png",
-        "hunmin-using-plan-content-3.png"
+        "/static/en/aiHunmin/uses/hunmin-using-plan-content-1.png",
+        "/static/en/aiHunmin/uses/hunmin-using-plan-content-2.png",
+        "/static/en/aiHunmin/uses/hunmin-using-plan-content-3.png"
       ]
     }
   },
@@ -53,6 +53,10 @@
     "description": {
       "m": "A roadmap of our past and future growth. Please watch the future of our company. We will reward your interest and support.",
       "d": "A roadmap of our past and future growth. Please watch the future of our company.\n We will reward your interest and support."
+    },
+    "image": {
+      "src": "/static/en/about/roadmap/roadmap.svg",
+      "alt": "t3q RoadMap"
     }
   },
   "future": {
@@ -61,8 +65,12 @@
       "n": "Prepare for 15 years with a 15-year foothold"
     },
     "description": {
-      "m": "Ltd.'s 'AI platform (T3Q.dl)', 'big data platform (T3Q.cep)', and 'intelligent search engine (T3Q.search)', we will reward your support with 'AI HUNMINJUNGEM' and further 'AI HUNMINJUNGEM Portal'.",
-      "d": "Ltd.'s 'AI platform (T3Q.dl)', 'big data platform (T3Q.cep)', and 'intelligent search engine (T3Q.search)',\n we will reward your support with 'AI HUNMINJUNGEM' and further 'AI HUNMINJUNGEM Portal'."
+      "m": "Ltd.'s 'AI platform (T3Q.dl)', 'big data platform (T3Q.cep)', and 'intelligent search engine (T3Q.search)', we will reward your support with 'AI HUNMINJEONGEUM' and further 'AI HUNMINJEONGEUM Portal'.",
+      "d": "Ltd.'s 'AI platform (T3Q.dl)', 'big data platform (T3Q.cep)', and 'intelligent search engine (T3Q.search)',\n we will reward your support with 'AI HUNMINJEONGEUM' and further 'AI HUNMINJEONGEUM Portal'."
+    },
+    "image": {
+      "src": "/static/ko/about/future/t3q-future.svg",
+      "alt": "t3q-future-loadmap-img"
     }
   },
   "greetings": {
@@ -78,7 +86,7 @@
       "m": [
         "We have developed big data and artificial intelligence technologies before anyone else in Korea, providing solutions for various platforms and customer requirements for the national defense, public institutions, and enterprises. We are confident that we are ahead of the curve in artificial intelligence and big data technologies with the technology and know-how we have accumulated over the years.",
         "\n\n",
-        "Through 'AI HUNMINJUNGEM'",
+        "Through 'AI HUNMINJEONGEUM'",
         "\n",
         " We will realize <strong>All-Citizen AI, All-Soldier AI, and All-Industry AI</strong>.",
         "\n\n",
@@ -93,7 +101,7 @@
       "d": [
         "We have developed big data and artificial intelligence technologies before anyone else in Korea, providing solutions for various platforms and customer requirements for the national defense, public institutions, and enterprises. We are confident that we are ahead of the curve in artificial intelligence and big data technologies with the technology and know-how we have accumulated over the years.",
         "\n\n",
-        "We will realize <strong>All People AI, All Soldiers AI, All Industries AI</strong> through 'AI HUNMINJUNGEM'.",
+        "We will realize <strong>All People AI, All Soldiers AI, All Industries AI</strong> through 'AI HUNMINJEONGEUM'.",
         "\n\n",
         "We are confident that it will develop into a global AI and big data ecosystem.",
         "\n",
@@ -115,31 +123,31 @@
         "id": "speedQuality",
         "title": "Speed & Quality",
         "description": "Provide optimal service\nat the right time",
-        "src": "philosophy-1-1.png"
+        "src": "/static/en/about/philosophy/philosophy-1-1.png"
       },
       {
         "id": "unlimitedValue",
         "title": "Unlimited Value",
         "description": "Pursue infinite value for employees",
-        "src": "philosophy-2-1.png"
+        "src": "/static/en/about/philosophy/philosophy-2-1.png"
       },
       {
         "id": "flexibleOrganization",
         "title": "Flexible Organization",
         "description": "A flexible organizational culture that embraces the changing times",
-        "src": "philosophy-3-1.png"
+        "src": "/static/en/about/philosophy/philosophy-3-1.png"
       },
       {
         "id": "activeResponsibility",
         "title": "Active Responsibility",
         "description": "A strong sense of responsibility to society",
-        "src": "philosophy-4-1.png"
+        "src": "/static/en/about/philosophy/philosophy-4-1.png"
       },
       {
         "id": "bestAiPlatform",
         "title": "Best AI Platform",
         "description": "Toward a global leading nAI platform",
-        "src": "philosophy-5-1.png"
+        "src": "/static/en/about/philosophy/philosophy-5-1.png"
       }
     ]
   },
@@ -161,32 +169,32 @@
       {
         "id": "",
         "title": "Requirements tracking/management\n system using interfaces",
-        "src": "patent-1.png"
+        "src": "/static/en/about/patent/patent-1.png"
       },
       {
         "id": "",
         "title": "Application Sources\nHow to Analyze and Manage Assets",
-        "src": "patent-2.png"
+        "src": "/static/en/about/patent/patent-2.png"
       },
       {
         "id": "",
         "title": "Application calls in distributed systems\nBusiness transactions using logs\nReal-time tracking and analysis methods system",
-        "src": "patent-3.png"
+        "src": "/static/en/about/patent/patent-3.png"
       },
       {
         "id": "",
         "title": "Big data-basedartificial intelligence\n integrated platform system",
-        "src": "patent-4.png"
+        "src": "/static/en/about/patent/patent-4.png"
       },
       {
         "id": "",
         "title": "Big data-based artificial intelligence\n integrated platform service method",
-        "src": "patent-5.png"
+        "src": "/static/en/about/patent/patent-5.png"
       },
       {
         "id": "",
         "title": "How to provide AI services",
-        "src": "patent-6.png"
+        "src": "/static/en/about/patent/patent-6.png"
       }
     ]
   },
@@ -210,7 +218,8 @@
           "fax": "02-6344-7661"
         },
         "link": "https://map.naver.com/v5/search/%ED%8B%B0%EC%93%B0%EB%A6%AC%ED%81%90/place/12869465?c=14125455.8836574,4506523.9386608,15,0,0,0,dh&isCorrectAnswer=true",
-        "src": "seoul-map.png"
+        "src": "/static/en/about/map/seoul-map.png",
+        "alt": "Seoul Head Office Map Image"
       },
       {
         "id": "gwangju",
@@ -219,13 +228,42 @@
           "add": "Room 301, 3rd floor, Gwangju AI Startup Camp, 12, Gyeongyeol-ro 17beon-gil, Seo-gu, Gwangju, Korea (Nongseong-dong)",
           "tel": "062-366-7660"
         },
-        "src": "gwangju-map.png",
-        "link": "https://map.naver.com/v5/entry/place/1464331538?c=14125335.2450619,4184665.0132251,19,0,0,0,dh&isCorrectAnswer=true"
+        "link": "https://map.naver.com/v5/entry/place/1464331538?c=14125335.2450619,4184665.0132251,19,0,0,0,dh&isCorrectAnswer=true",
+        "src": "/static/en/about/map/gwangju-map.png",
+        "alt": "Gwangju Office Map Image"
       }
     ]
   },
   "contact": {
     "title": "Contact Us",
-    "emailButton": "Contact us by email"
+    "emailButton": "Contact us by email",
+    "basicEmail": "help@t3q.com",
+    "email": [
+      {
+        "id": "service",
+        "title": "Contact Service",
+        "address": "T3Q_Service@t3q.com"
+      },
+      {
+        "id": "platform",
+        "title": "Contact Platforms",
+        "address": "T3Q_PLF@t3q.com"
+      },
+      {
+        "id": "business",
+        "title": "Business inquiries",
+        "address": "T3Q_BIZ@t3q.com"
+      },
+      {
+        "id": "hr",
+        "title": "Contact Us",
+        "address": "T3Q_HR@t3q.com"
+      },
+      {
+        "id": "etc",
+        "title": "Other inquiries",
+        "address": "T3Q_help@t3q.com"
+      }
+    ]
   }
 }

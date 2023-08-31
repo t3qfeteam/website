@@ -48,7 +48,8 @@
         "name": "바이너리",
         "src": "/static/aiHunmin/dataTask/hunmin-binary-icon.svg"
       }
-    ]
+    ],
+    "imgAlt": "이미지"
   },
   "taskFour": {
     "title": "태스크",
@@ -88,6 +89,11 @@
     "description": {
       "m": "인공지능에서 다루는 데이터(Data) 7종, 태스크(Task) 4가지를 조합한 28가지 케이스에 대한 데이터, 모델, 수행방법, 가이드, 실습영상 등의 콘텐츠와 함께 T3Q.ai 플랫폼에 탑재한 프레임워크입니다.",
       "d": "인공지능에서 다루는 데이터(Data) 7종, 태스크(Task) 4가지를 조합한 28가지 케이스에 대한\n데이터, 모델, 수행방법, 가이드, 실습영상 등의 콘텐츠와 함께 T3Q.ai 플랫폼에 탑재한 프레임워크입니다."
+    },
+    "image": {
+      "m": "/static/ko/aiHunmin/case/hunmin-28-case-m.png",
+      "d": "/static/ko/aiHunmin/case/hunmin-28-case.png",
+      "alt": "훈민정음 28가지 우수 케이스 표 이미지"
     }
   },
   "uses": {
@@ -127,26 +133,29 @@
       {
         "title": "全국민 AI",
         "description": "누구나 자기 아이디어를 쉽게 배워\n인공지능으로 구현하자!",
-        "src": "hunmin-using-plan-content-1.png",
+        "src": "/static/ko/aiHunmin/uses/hunmin-using-plan-content-1.png",
         "bgImage": "/static/aiHunmin/uses/hunmin-using-plan-1.png",
         "bgColor": "#1F3AD3",
-        "pointColor": "#152DB5"
+        "pointColor": "#152DB5",
+        "alt": "using-plan-全국민-AI-이미지"
       },
       {
         "title": "全장병 AI",
         "description": "군에 간 내 자식,\n인공지능은 확실히 익혀서 전역하자!",
-        "src": "hunmin-using-plan-content-2.png",
+        "src": "/static/ko/aiHunmin/uses/hunmin-using-plan-content-2.png",
         "bgImage": "/static/aiHunmin/uses/hunmin-using-plan-2.png",
         "bgColor": "#38774D",
-        "pointColor": "#3BA459"
+        "pointColor": "#3BA459",
+        "alt": "using-plan-全장병-AI-이미지"
       },
       {
         "title": "全산업 AI",
         "description": "全산업 영역에 인공지능을\n가장 빠르고 효율적으로 적용하자!",
-        "src": "hunmin-using-plan-content-3.png",
+        "src": "/static/ko/aiHunmin/uses/hunmin-using-plan-content-3.png",
         "bgImage": "/static/aiHunmin/uses/hunmin-using-plan-3.png",
         "bgColor": "#2F989E",
-        "pointColor": "#00C9B1"
+        "pointColor": "#00C9B1",
+        "alt": "using-plan-全산업-AI-이미지"
       }
     ]
   }
